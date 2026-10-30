@@ -1,17 +1,13 @@
-## Hi there 👋 Welcome to Techraghav1234's profile!
+# Hi there, I'm Raghav Pandit! 👋
 
+## 👨‍💻 About Me
+- 🔭 I’m currently working on full-stack web applications and software development.
+- 🌱 I’m currently learning advanced cloud architecture and web technologies.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about Web Development, JavaScript, and Software Engineering.
+- 📫 How to reach me: Connect with me on GitHub!
 
-<!--
-**Techraghav1234/Techraghav1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Languages: JavaScript, Python, HTML/CSS, SQL
+- Frameworks: React, Node.js, Express
+- Tools: Git, GitHub, VS Code
