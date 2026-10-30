@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090979,50:4B0082,100:00D4FF&height=260&section=header&text=Raghuvendra%20Tiwari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20•%20Technical%20SEO%20•%20AI%20Builder&descSize=17&descAlignY=62"/>
+<img src="./assets/header.svg" alt="Raghuvendra Tiwari" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;Technical+SEO+%26+Performance+%F0%9F%94%8D;Exploring+AI+%26+LLM+Integration+%F0%9F%A4%96;Turning+Ideas+Into+Digital+Products+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=420&lines=Building+Modern+Web+Experiences+%F0%9F%9A%80;Full-Stack+%7C+SEO+%7C+AI+%F0%9F%92%BB;Turning+Ideas+Into+Products+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Techraghav1234&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge" alt="Views"/>
 <img src="https://img.shields.io/github/followers/Techraghav1234?label=FOLLOWERS&style=for-the-badge&color=00D4FF&logo=github" alt="Followers"/>
@@ -14,6 +14,10 @@
 
 <br/><br/>
 
+<a href="https://devloperwala.in"><img src="https://img.shields.io/badge/Website-devloperwala.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://ygesports.devloperwala.in"><img src="https://img.shields.io/badge/YG%20Esports-Community-FF6B00?style=for-the-badge" alt="YG Esports"/></a>
+<br/>
+<a href="https://www.instagram.com/officialjackshukla"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/raghuvendra-tiwari-a73826314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://wa.me/918956662703"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://x.com/RaghavPandit_G"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -25,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-Main **Raghuvendra Tiwari** hoon, ek developer jo modern, scalable aur fast digital products banana pasand karta hai. Full-stack development, technical SEO aur AI integrations ko ek saath jod kar aise products banata hoon jo sundar bhi dikhein aur tez bhi chalein.
+Main **Raghuvendra Tiwari** hoon. Full-stack development, technical SEO aur AI ko jodkar aise digital products banata hoon jo dekhne mein sundar hon aur chalne mein tez. Code ke saath-saath apni community aur apne businesses bhi build kar raha hoon.
 
 <table>
 <tr>
@@ -35,20 +39,56 @@ Main **Raghuvendra Tiwari** hoon, ek developer jo modern, scalable aur fast digi
 - 💻 Full-stack web applications
 - 🔍 Technical SEO & Core Web Vitals
 - 🤖 AI & LLM-powered tools
-- ⚡ Performance optimization
+- 📣 Social media marketing
+- 🎮 Esports community & tournaments
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Right Now
-- 🔭 Building scalable web apps
-- 📈 Improving website speed & indexing
-- 🧠 Experimenting with AI APIs
-- 🎯 Motto: **Learn. Build. Improve. Repeat.**
+### 🌱 Mindset
+- 🔭 Scalable, production-grade builds
+- ⚡ Speed, performance, clean code
+- 🧠 Always learning, always shipping
+- 🎯 **Learn. Build. Improve. Repeat.**
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🏢 My Ventures
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📣 Social Media Marketing Agency
+Brands ko online grow karne ke liye marketing, SEO aur web solutions.
+
+🔗 **[devloperwala.in](https://devloperwala.in)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Sports Community & Tournaments
+Indian esports players aur organisations ke liye community aur tournaments.
+
+🔗 **[ygesports.devloperwala.in](https://ygesports.devloperwala.in)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔨 Currently Building
+
+| # | Project | What it is |
+|:-:|---------|------------|
+| 1 | 🏢 **HRMS Portal** | Complete HR management portal for organisations |
+| 2 | 👕 **Clothing Store** | Fashion e-commerce store, built from scratch |
+| 3 | 📱 **Android Screen-Capture App** | Production-grade app for cheat-free gaming: gameplay is recorded purely via screen capture, with offline support |
 
 ---
 
@@ -65,26 +105,11 @@ Main **Raghuvendra Tiwari** hoon, ek developer jo modern, scalable aur fast digi
 </div>
 
 <table>
-<tr>
-<th>Layer</th>
-<th>Technologies</th>
-</tr>
-<tr>
-<td>🎨 Frontend</td>
-<td>React • Tailwind CSS • Bootstrap • HTML • CSS</td>
-</tr>
-<tr>
-<td>⚙️ Backend</td>
-<td>Node.js • Express.js • Django • Flask • PHP</td>
-</tr>
-<tr>
-<td>🗄️ Databases</td>
-<td>MySQL • MongoDB • PostgreSQL</td>
-</tr>
-<tr>
-<td>🔧 Tools</td>
-<td>Git • GitHub • VS Code • Postman</td>
-</tr>
+<tr><th>Layer</th><th>Technologies</th></tr>
+<tr><td>🎨 Frontend</td><td>React • Tailwind CSS • Bootstrap • HTML • CSS</td></tr>
+<tr><td>⚙️ Backend</td><td>Node.js • Express.js • Django • Flask • PHP</td></tr>
+<tr><td>🗄️ Databases</td><td>MySQL • MongoDB • PostgreSQL</td></tr>
+<tr><td>🔧 Tools</td><td>Git • GitHub • VS Code • Postman</td></tr>
 </table>
 
 ---
@@ -142,27 +167,65 @@ Main **Raghuvendra Tiwari** hoon, ek developer jo modern, scalable aur fast digi
 ## 📊 GitHub Activity
 
 <div align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Techraghav1234&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
-Developers, creators aur digital products banane walon se connect karna mujhe hamesha pasand hai.
+Kisi project, collaboration ya idea par baat karni ho to bas ek message door hoon.
 
 <div align="center">
 
-| 📧 Email | 📱 WhatsApp | 💼 LinkedIn | 🐦 X |
-|:---:|:---:|:---:|:---:|
-| [younggolenesports@gmail.com](mailto:younggolenesports@gmail.com) | [+91 8956662703](https://wa.me/918956662703) | [Raghuvendra Tiwari](https://www.linkedin.com/in/raghuvendra-tiwari-a73826314/) | [@RaghavPandit_G](https://x.com/RaghavPandit_G) |
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://devloperwala.in"><b>🌐 Agency</b></a><br/>
+<a href="https://devloperwala.in">devloperwala.in</a>
+</td>
+<td align="center" width="50%">
+<a href="https://ygesports.devloperwala.in"><b>🎮 Esports</b></a><br/>
+<a href="https://ygesports.devloperwala.in">ygesports.devloperwala.in</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.instagram.com/officialjackshukla"><b>📸 Instagram</b></a><br/>
+<a href="https://www.instagram.com/officialjackshukla">@officialjackshukla</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/raghuvendra-tiwari-a73826314/"><b>💼 LinkedIn</b></a><br/>
+<a href="https://www.linkedin.com/in/raghuvendra-tiwari-a73826314/">Raghuvendra Tiwari</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://wa.me/918956662703"><b>📱 WhatsApp</b></a><br/>
+<a href="https://wa.me/918956662703">+91 89566 62703</a>
+</td>
+<td align="center">
+<a href="https://x.com/RaghavPandit_G"><b>🐦 X (Twitter)</b></a><br/>
+<a href="https://x.com/RaghavPandit_G">@RaghavPandit_G</a>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<a href="mailto:younggolenesports@gmail.com"><b>📧 Email</b></a><br/>
+<a href="mailto:younggolenesports@gmail.com">younggolenesports@gmail.com</a>
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 💡 *"Great things are built one line of code at a time."*
+### 🙏 Thank You for Visiting!
+*Profile dekhne ke liye shukriya. Milte hain next build mein.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:4B0082,100:090979&height=120&section=footer"/>
+<sub>💡 "Great things are built one line of code at a time."</sub>
+
+<br/><br/>
+
+<img src="./assets/saffron-flag.svg" alt="जय श्री राम" width="100%"/>
 
 </div>
