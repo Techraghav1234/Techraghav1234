@@ -1,22 +1,16 @@
 
-<!-- ========================================================= -->
-<!-- RAGHUVENDRA TIWARI | PREMIUM GITHUB PROFILE README        -->
-<!-- GitHub Username: Techraghav1234                           -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=240&section=header&text=Raghuvendra%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SEO%20Specialist%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=60"/>
+# 👋 Raghuvendra Tiwari
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;Technical+SEO+%26+Performance+Specialist+%F0%9F%94%8D;Exploring+AI+%26+LLM+Integration+%F0%9F%A4%96;Turning+Ideas+Into+Digital+Products+%E2%9C%A8" alt="Typing SVG"/>
-</a>
+### Full-Stack Developer | Technical SEO Specialist | AI Enthusiast
 
-<br/>
+**Building Digital Experiences • Exploring AI • Creating Impact**
 
-<img src="https://komarev.com/ghpvc/?username=Techraghav1234&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Techraghav1234?label=FOLLOWERS&style=for-the-badge&color=00D4FF" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Techraghav1234?label=TOTAL%20STARS&style=for-the-badge&color=FFD700" alt="Stars"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Techraghav1234&style=flat-square&color=7B2FF7)](https://github.com/Techraghav1234)
+[![GitHub Followers](https://img.shields.io/github/followers/Techraghav1234?style=flat-square&color=00D4FF)](https://github.com/Techraghav1234?tab=followers)
+
+[LinkedIn](https://www.linkedin.com/in/raghuvendra-tiwari-a73826314/) • [WhatsApp](https://wa.me/918956662703) • [X](https://x.com/RaghavPandit_G) • [Email](mailto:younggolenesports@gmail.com)
 
 </div>
 
@@ -26,70 +20,14 @@
 
 Hello! I'm **Raghuvendra Tiwari**, a developer passionate about building modern, scalable and performance-focused digital experiences.
 
-I enjoy working across the full web development stack, exploring emerging AI technologies and improving website performance through technical SEO and optimization.
+I enjoy working across the full web development stack, exploring emerging AI technologies and improving website performance through technical SEO.
 
-- 💻 Interested in Full-Stack Web Development.
-- 🚀 Building modern and scalable web applications.
-- 🔍 Focused on Technical SEO and Core Web Vitals.
-- 🤖 Exploring AI, LLMs and intelligent integrations.
-- ⚡ Passionate about clean code and performance optimization.
-- 🌱 Always learning and experimenting with new technologies.
-
-```javascript
-const raghuvendra = {
-    name: "Raghuvendra Tiwari",
-    username: "Techraghav1234",
-
-    role: [
-        "Full-Stack Developer",
-        "Technical SEO Specialist",
-        "AI Enthusiast"
-    ],
-
-    languages: [
-        "JavaScript",
-        "Python",
-        "PHP",
-        "HTML",
-        "CSS"
-    ],
-
-    frontend: [
-        "React",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Django",
-        "Flask"
-    ],
-
-    databases: [
-        "MySQL",
-        "MongoDB",
-        "PostgreSQL"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman"
-    ],
-
-    currentFocus: [
-        "Scalable Web Applications",
-        "Technical SEO",
-        "AI & LLM Integration",
-        "Web Performance"
-    ],
-
-    mindset: "Learn. Build. Improve. Repeat."
-};
-```
+- 💻 Full-Stack Web Development
+- 🚀 Modern and scalable web applications
+- 🔍 Technical SEO and Core Web Vitals
+- 🤖 AI, LLMs and intelligent integrations
+- ⚡ Website speed and performance optimization
+- 🌱 Always learning and building something new
 
 ---
 
@@ -97,49 +35,49 @@ const raghuvendra = {
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,php,html,css" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🔍 Technical SEO & Web Analytics
 
-<p>
-<img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Technical_SEO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Core_Web_Vitals-34A853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/On_Page_SEO-00A86B?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ahrefs-0052CC?style=for-the-badge&logo=ahrefs&logoColor=white"/>
-</p>
+![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-0052CC?style=for-the-badge&logo=ahrefs&logoColor=white)
 
-**Areas of Interest:**
+**Areas of Interest**
+
 - Technical SEO Audits
 - Website Speed Optimization
 - Core Web Vitals
@@ -152,15 +90,14 @@ const raghuvendra = {
 
 ## 🤖 AI & Emerging Technologies
 
-<p>
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-</p>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Meta Llama](https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-Exploring:
+**Exploring**
+
 - AI-powered applications
 - Large Language Models (LLMs)
 - AI API integrations
@@ -169,62 +106,43 @@ Exploring:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<div align="center">
+Want to explore my development journey?
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Techraghav1234&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+- 📁 [Explore My Repositories](https://github.com/Techraghav1234?tab=repositories)
+- ⭐ [Explore My Starred Projects](https://github.com/Techraghav1234?tab=stars)
+- 👥 [Connect With My GitHub Profile](https://github.com/Techraghav1234?tab=followers)
+- 📈 [View My Contributions & Activity](https://github.com/Techraghav1234)
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Techraghav1234&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techraghav1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Techraghav1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
+GitHub automatically displays my contribution graph and activity below this profile README.
 
 ---
 
-## 📈 Contribution Activity
+## 🚀 Featured Projects
 
-<div align="center">
+### 💼 Portfolio
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Techraghav1234&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+Explore my portfolio and development work.
 
-</div>
+[![Portfolio Repository](https://img.shields.io/badge/Explore-Portfolio-7B2FF7?style=for-the-badge&logo=github)](https://github.com/Techraghav1234/portfolio)
 
----
+### 💻 More Projects
 
-## 🚀 Featured Repositories
+Discover my other repositories and experiments.
 
-<div align="center">
-
-<a href="https://github.com/Techraghav1234/portfolio">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Techraghav1234&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Repository"/>
-</a>
-
-<a href="https://github.com/Techraghav1234">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Techraghav1234&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Profile"/>
-</a>
-
-</div>
+[![All Repositories](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github)](https://github.com/Techraghav1234?tab=repositories)
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-[+] Full-Stack Web Development
-[+] Scalable Application Architecture
-[+] Technical SEO & Web Performance
-[+] AI & LLM Integrations
-[+] Modern Frontend Experiences
-[+] Building Useful Digital Products
-```
+- 🔹 Full-Stack Web Development
+- 🔹 Scalable Application Architecture
+- 🔹 Technical SEO & Web Performance
+- 🔹 AI & LLM Integrations
+- 🔹 Modern Frontend Experiences
+- 🔹 Building Useful Digital Products
 
 ---
 
@@ -234,31 +152,21 @@ I'm always interested in connecting with developers, creators and people buildin
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/raghuvendra-tiwari-a73826314/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuvendra-tiwari-a73826314/)
 
-<a href="https://wa.me/918956662703">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918956662703)
 
-<a href="https://x.com/RaghavPandit_G">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RaghavPandit_G)
 
-<a href="mailto:younggolenesports@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younggolenesports@gmail.com)
 
 **📧 Email:** younggolenesports@gmail.com
 
 **📱 WhatsApp:** +91 8956662703
 
-**💼 LinkedIn:** [Raghuvendra Tiwari](https://www.linkedin.com/in/raghuvendra-tiwari-a73826314/)
+**💼 LinkedIn:** Raghuvendra Tiwari
 
-**🐦 X:** [@RaghavPandit_G](https://x.com/RaghavPandit_G)
+**🐦 X:** @RaghavPandit_G
 
 </div>
 
@@ -266,10 +174,10 @@ I'm always interested in connecting with developers, creators and people buildin
 
 <div align="center">
 
-### 💡 "Great things are built one line of code at a time."
+### 💡 Great things are built one line of code at a time.
 
 **Thanks for visiting my profile!**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:4B0082,100:090979&height=120&section=footer"/>
+⭐ If you find my work interesting, feel free to explore my repositories and connect.
 
 </div>
