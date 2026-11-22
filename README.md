@@ -1,4 +1,4 @@
-# Raghav Tripathi (Techraghav1234) 🚀
+# Raghav Tripathi 🚀
 **Founder & Principal Systems Architect at [DevloperWala](https://devloperwala.in)**  
 *Mumbai, India • Full-Stack Web & Mobile Architecture • Cloud Infrastructure • Esports Systems*
 
